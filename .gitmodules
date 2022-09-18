@@ -8,3 +8,8 @@
 	url = https://github.com/mani2012/batchqc
 	shallow = true
 	registered = true
+[submodule "PathoStat"]
+	path = PathoStat
+	url = https://github.com/mani2012/pathostat
+	shallow = true
+	registered = true
