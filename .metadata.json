@@ -1,8 +1,8 @@
 [
   {
-    "package": "PathoStat"
+    "package": "BatchQC"
   },
   {
-    "package": "BatchQC"
+    "package": "PathoStat"
   }
 ]
